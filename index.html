@@ -63,7 +63,7 @@ h1{font-size:22px;font-weight:600;margin-bottom:30px;}
   <script>
     async function securityCheck() {
   try {
-    const res = await fetch("/api/security.js");
+    const res = await fetch("/api/security");
 
     if (!res.ok) {
       document.body.innerHTML =
