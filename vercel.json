@@ -1,0 +1,49 @@
+  {
+  "redirects": [
+    {
+      "source": "/sosmed-2/",
+      "destination": "/tidaktersedia/",
+      "permanent": false 
+    },
+    {
+      "source": "index.html",
+      "destination": "/tidaktersedia/",
+      "permanent": true
+    },
+     {
+      "source": "/seeb/",
+      "destination": "/tidaktersedia/",
+      "permanent": true
+     },
+     {
+      "source": "/apprem/",
+      "destination": "/tidaktersedia/",
+      "permanent": true 
+    },
+    {
+      "source": "/rit/",
+      "destination": "/maintenance/",
+      "permanent": true 
+    },
+    {
+      "source": "/sosm1/",
+      "destination": "/maintenance/",
+      "permanent": true
+    },
+    {
+      "source": "/sos4/",
+      "destination": "/maintenance/",
+      "permanent": true 
+    },
+    {
+      "source": "/suns/",
+      "destination": "/maintenance/",
+      "permanent": true 
+    },
+    {
+      "source": "/gll/",
+      "destination": "/maintenance/",
+      "permanent": true 
+    }
+  ]
+  }
